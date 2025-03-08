@@ -15,6 +15,15 @@ namespace AISocialSync.sitecore_modules.Shell.SocialPreview
   {
 
     /// <summary>
+    /// form1 control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+
+    /// <summary>
     /// lblOriginalTextCms control.
     /// </summary>
     /// <remarks>
@@ -40,15 +49,6 @@ namespace AISocialSync.sitecore_modules.Shell.SocialPreview
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.WebControls.Button btnPostToTwitter;
-
-    /// <summary>
-    /// lblTwitterResponse control.
-    /// </summary>
-    /// <remarks>
-    /// Auto-generated field.
-    /// To modify move field declaration from designer file to code-behind file.
-    /// </remarks>
-    protected global::System.Web.UI.WebControls.Label lblTwitterResponse;
 
     /// <summary>
     /// lblTrendsFromCMS control.
@@ -85,5 +85,14 @@ namespace AISocialSync.sitecore_modules.Shell.SocialPreview
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.WebControls.Button btnTrendingPostToTwitter;
+
+    /// <summary>
+    /// lblTwitterResponse control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::System.Web.UI.WebControls.Label lblTwitterResponse;
   }
 }

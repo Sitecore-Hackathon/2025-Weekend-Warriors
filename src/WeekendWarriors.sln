@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.31728.76
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{D0BE80FB-F37D-4792-8BC3-5886368EE91A}"
-	ProjectSection(SolutionItems) = preProject
-		Feature\Feature.module.json = Feature\Feature.module.json
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{1FCEDCCA-F333-4091-8EC3-4B9932026420}"
 EndProject

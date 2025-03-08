@@ -18,8 +18,8 @@ Sitecore XP - Usage of Open AI sync with twitter
 
 There are two scenarios in consideration.
 
-**1.** Content regeneration of simpler text
-**2.** Content generation based on selected trendings
+**1.** Content regeneration of simpler text.
+**2.** Content generation based on selected trendings.
 
 ### 1. Content regeneration of simpler text
 

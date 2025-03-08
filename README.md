@@ -12,6 +12,10 @@ Team 48 - Weekend Warriors
 
 Sitecore XP - Usage of Open AI sync with twitter
 
+## Video link
+
+[Sitecore Hackathon 2025 Demo-20250308_221657-Meeting Recording.mp4](https://horizontal-my.sharepoint.com/:v:/p/ksoni/EbErYEh-M9pFmlf6PrG_40gBiBsClZSOXmJG8NlCCGuo4g?e=QGg61Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Description
 
 **AI Social sync** is an innovative Sitecore module that leverages artificial intelligence to dynamically generate engaging content for Twitter. By integrating OpenAI's advanced language models, this module enables marketers, content creators, and businesses to easily create relevant, timely, and high-quality posts directly from the Sitecore CMS. 
@@ -30,4 +34,5 @@ There are two scenarios in consideration.
 ![Content generation](docs/diagrams/content_generate.png)
 
 You can get detail steps from the attached document.
-![Document] (docs/document/Document.pdf)
+![Document](docs/document/Document.pdf)
+

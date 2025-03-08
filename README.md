@@ -29,4 +29,4 @@ There are two scenarios in consideration.
 
 ![Content generation](docs/diagrams/content_generate.png)
 
-
+You can get detail steps from the attached document. (docs/document/Document.pdf)

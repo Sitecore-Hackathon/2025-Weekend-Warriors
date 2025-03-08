@@ -26,6 +26,6 @@ There are two scenarios in consideration
 
 ### 2. Content generation based on selected trendings
 
-![Content generation](docs/diagrams/content_genetate.png)
+![Content generation](docs/diagrams/content_generate.png)
 
 
